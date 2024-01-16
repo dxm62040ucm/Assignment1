@@ -5,6 +5,8 @@ code link:https://github.com/dxm62040ucm/Assignment1/blob/main/Assignment1.ipynb
 
 Video:https://github.com/dxm62040ucm/Assignment1/blob/main/Assignment1_Video.webm
 
+PDF: https://github.com/dxm62040ucm/Assignment1/blob/main/Assignment1.pdf
+
 
 Drive link for Video:
 https://drive.google.com/file/d/16lWfLiJV3gBpx-Xueq85z17xjplVSXH9/view?usp=sharing
